@@ -1,0 +1,25 @@
+.mat-table{
+    margin: 23px auto;
+}
+.products-div{
+    text-align: center;
+    padding: 40px 24px;
+}
+.mat-radio-button{
+    margin-right: 30px;
+}
+.mat-select-panel{
+    margin-top: 84px;
+    
+}
+.m-r{
+    margin-right: 40px;
+}
+th.mat-header-cell:first-of-type {
+    padding-left: 24px;
+    padding-right: 24px;
+}
+.feedback-btn{
+    text-align: center;
+    margin-top: 44px;
+}
